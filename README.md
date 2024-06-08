@@ -1,1 +1,1 @@
-Here Uploading code snippets for the concepts taught by Aditya_verma
+Here, uploading the code snippets which builts conceptual knowledge on binary search
